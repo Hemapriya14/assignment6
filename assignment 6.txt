@@ -1,0 +1,51 @@
+ 1.Waterfall Methodology
+  * phases will be executed in one by one.
+  * It is also called as linear seuential.
+  * Customer interaction is very less.  
+  * Test plan is viewed after complete development.
+
+ Agile methodology
+  * Agile is one of the Software development methodology. 
+  * All the  phases will be executed at same time.   
+  * Customer interaction is very less.  
+  * Test plan is reviewed after each sprint.
+
+ 2.Phases in SDLC
+* Requirement.
+* Design.
+* Implementation
+* Testing
+* Deployment.
+* Maintenace
+
+3.Core values in Agile
+* Individuals and interactions over processes and tools.
+* Working software over comprehensive documentations.
+* Customer collabrations over contract negotiation.
+* Responding to changes over following a plan.
+
+4.Scrum meetings or scrum ceremonies:
+* Story grooming.
+* Sprint planning.
+* Daily standup meeting.
+* Sprint review.
+* Retrospective.
+
+5.Uses of retrospective meeting
+      *It is facilitated by scrum Master.
+      *It is used to evaluate past working cycle. .
+      *Analyze team performance and also improve  it to be better.
+
+6.Different roles in scrum
+       1.Dev team     -Responsible for implementation, self organised team around 5-9 people.
+       2.Product owner-Responsible for to ensuring optimal business value from Dev team is achieved.
+       3.Scrum master - Responsible for possible results in future,servant leader,Process coach,problem solver,protector.
+
+7. product backlog
+  * Product owner owns the product backlog.
+  * product backlog is prioritized list of stories.
+  * Entire list of prioritized stories that need to completed for the product development.
+
+ Sprint backlog
+  * Development team and scrum master owns the sprint backlog.
+  *List of stories completed in the sprint.
